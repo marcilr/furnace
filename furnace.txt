@@ -1,0 +1,7 @@
+furnace.txt
+Created Mon 24 Jan 2022 11:02:14 AM AKST
+Copyright (C) 2022 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Furnace
+
